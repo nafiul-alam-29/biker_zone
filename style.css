@@ -1,3 +1,9 @@
+.btn-main {
+  background-color: rgb(246, 160, 203);
+  border: 0;
+  color: white;
+}
+
 .curosel-bg {
   background-color: rgba(231, 111, 81, 0.1);
 }
